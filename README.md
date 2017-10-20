@@ -3,7 +3,7 @@
 The goal is to build a simple "URL lookup service".  I chose to use this
 as an opportunity to experiment with Flask!
 
-# URL lookup service
+# Service Description
 
 We have an HTTP proxy that is scanning traffic looking for malware
 URLs.  Before allowing HTTP connections to be made, this proxy asks
